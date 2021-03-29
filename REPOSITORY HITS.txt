@@ -1,0 +1,5 @@
+Belajar membuat repository
+memasukkan data-data karya ilmiah dosen
+memasukkan data skripsi
+memasukkan data tesis
+memasukkan data disertasi
